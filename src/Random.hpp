@@ -59,6 +59,6 @@ public:
 	Random& operator =(Random&& rand) noexcept;
 };
 
-#include"Random.inl"
+#include"Random.tcc"
 #endif
 
